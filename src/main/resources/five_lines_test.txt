@@ -1,0 +1,5 @@
+the canal testing the canal the testing is good in the canal. really in the canal? the canal;
+that is the canal we are talking about. Yes Canal. 
+Assuming not case sensitive
+, . and other symbols are treated as part of the word.
+assume newline the same as the space delimiter
