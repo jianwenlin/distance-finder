@@ -9,6 +9,7 @@
       <id>securecentral</id>
       <!--Override the repository (and pluginRepository) "central" from the
          Maven Super POM -->
+      <!--Override for org repo -->      
       <repositories>
         <repository>
           <id>central</id>
