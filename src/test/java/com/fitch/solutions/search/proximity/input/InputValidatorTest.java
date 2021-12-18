@@ -8,6 +8,7 @@ import org.junit.runner.RunWith;
 import org.mockito.Mockito;
 import org.mockito.runners.MockitoJUnitRunner;
 
+//testing validator inputs with mockito
 @RunWith(MockitoJUnitRunner.class)
 public class InputValidatorTest extends Mockito {
     private InputValidator subject = new InputValidator();
